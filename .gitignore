@@ -1,0 +1,6 @@
+.idea/
+.date/
+json_file*
+csv_file*
+*.csv
+*.json
